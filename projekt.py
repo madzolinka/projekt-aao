@@ -9,3 +9,4 @@ print('oo i moge pisac elegancko')
 #jakie to jest gówxdddd
 #ndndndnd
 #ej kozak omg
+#lalalal
