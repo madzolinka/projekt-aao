@@ -8,3 +8,4 @@ print('oo i moge pisac elegancko')
 #idk
 #jakie to jest gówxdddd
 #ndndndnd
+#ej kozak omg
