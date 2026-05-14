@@ -4,9 +4,4 @@ print('zyg ciastko')
 print('oo i moge pisac elegancko')
 #xxx
 
-#blyblybly
-#idk
-#jakie to jest gówxdddd
-#ndndndnd
-#ej kozak omg
-#lalalal
+#hej jestes super
