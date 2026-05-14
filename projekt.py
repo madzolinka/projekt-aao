@@ -3,3 +3,5 @@ print('zyg ciastko')
 
 print('oo i moge pisac elegancko')
 #xxx
+
+#blyblybly
