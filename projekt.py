@@ -6,4 +6,5 @@ print('oo i moge pisac elegancko')
 
 #blyblybly
 #idk
-#jakie to jest gówno.pl
+#jakie to jest gówxdddd
+#ndndndnd
